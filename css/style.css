@@ -41,19 +41,19 @@ section {
 .container {
   width: 1287px;
   height: 1300px;
-  border: 1px solid;
+  /* border: 1px solid; */
   margin: 0 auto;
   display: block;
 }
 .title {
   width: 100%;
   height: 15%;
-  border: 1px solid;
+  /* border: 1px solid; */
 }
 .subtitle {
   width: 100%;
   height: 85%;
-  border: 1px solid;
+  /* border: 1px solid; */
 }
 .hero {
   display: flex;
